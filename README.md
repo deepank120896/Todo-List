@@ -1,12 +1,12 @@
 ## To Do List App 
 ### Technologies Used
-    * React JS
-    * FireBase for Database and Hosting
-    * Material UI for Design
+* React JS
+* FireBase for Database and Hosting
+* Material UI for Design
 
 ### Goals Achieved
-    * Full CRUD Functionality
-    * Hosting URL: *[To Do App](https://todo-app-315b5.web.app)* 
+* Full **CRUD** Functionality
+* Hosting URL: *[To Do App](https://todo-app-315b5.web.app)* 
 <br>
 
 ### Available Scripts
